@@ -104,15 +104,8 @@ For Transient Analysis Settings and Output
 
  
  For DC Analysis Settings and Output
-![image]![Uploading Screenshot 2024-08-29 001923.png…]()
 
 
- 
-
-
-
-
- 
 
 Results:
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
